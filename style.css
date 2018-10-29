@@ -1,0 +1,56 @@
+body{ background:url(images/bg.gif) repeat-x #CCC;padding:0px; background-color:#f3f3f3}
+#search{ width:1000px; float:left; margin-bottom:8px}
+#search_right{ float:right; width:200px}
+#search1{ width:150px; float:left}
+#search1 input{ height:27px; border:none}
+#search2{ width:50px; float:left}
+
+#wrapper{ width:1000px; height:auto;background:#CCC;margin-right:auto; margin-left:auto; }
+#header{ width:1000px; height:50px; float:left;margin-bottom:25px; background:#FFF}
+#left_logo{ float:left; width:300px; color:#afaeae; font-size:24px; padding-top:15px}
+#nav{ width:700px; float:left}
+#nav li{text-align:center; list-style:none; float:left; padding-left:12px;padding-right:12px; border-right:solid 1px #000 ; }
+#nav ul{ padding-left:200px; padding-right:10px; margin:10px;float:left; padding-top:10px}
+#nav a{ text-decoration:none;}
+#nav a:hover{padding-left:20px;}
+#blue{ color:#9dd9ff; padding:2px}
+#font{ font-size:11px}
+#abc{ padding-left:10px}
+#column1{ width:1000px;height:auto;float:left;margin-bottom:25px;}
+
+#column2{ width:1000px;height:1400px;float:left;background-color:#FFF; margin-bottom::25px; font-family:Calibri}
+#column2 h2{ padding:8px;margin:8px;color:#595959 }
+#con2 p{ font-size:16px; color:#afaeae; padding:8px; margin:6px}
+#con2{ width:280px; height:auto; float:left; background:#FFF;padding:5px}
+#con2 li{ list-style:none; padding-left:12px; font-size:18px; color:#595959}
+#con2 ul{ padding:0px; margin:0px;}
+#con2 a{ background:url(images/menu_li_link.gif) left 3px no-repeat; padding-left:20px; text-decoration:none}
+#con2 a:hover{ background:url(images/menu_li_hover.gif) left 3px no-repeat; padding-left:20px}
+#p1 { float:right; font-size:15px; color:#afaeae; padding:5px}
+
+#con3{ width:650px;height:auto; float:left; height:400px; background-color:#FFF;font-family:Calibri}
+#con3 img{ float:left; margin:30px; padding:12px; text-align:center; margin-bottom:10px; margin-left:2px; margin-right:2px}
+#con3 button{ size:2px; background:#9dd9ff; padding-bottom:5px} 
+#con3 li{text-align:center; list-style:none; float:left; padding-left:15px;padding-right:15px; border-right:solid 1px #000}
+#con3 ul{ padding:0px; margin:0px;float:left;}
+#con3 a{ text-decoration:none;}
+#con3 p{ padding-left:13px; font-size:16px; color:#afaeae}
+#right_logo{ float:right; width:50px;}
+
+
+#column3{ width:1000px;height:500; float:left;  background-color:#FFF; margin-top:25px}
+#con5{ width:320px;height:auto; float:left;  background-color:#FFF; margin-top:8px ; font-family:Calibri }
+#con5 p{ text-align:left; padding-left:14px; padding-right:3px font-size:18px; color:#afaeae}
+#con5 img{ padding-left:10px; padding-right:5px;margin:8px; padding-top:15px}
+#con5 h2{ padding-left:10px; padding-right:5px; margin:5px; color:#595959}
+#button{ padding:10px; margin:10px; }
+
+#page1{ float:left;color:#afaeae; font-size:16px; padding-left:40px; margin-top:100px}
+#page2{ float:right; font-size:12px; color:#afaeae;  padding-right:40px; margin-top:100px; font-family:Calibri}
+.clearf{ clear:both}
+#p{ border:solid 2px #9C9; width:200px; height:200px}
+
+#footer{ width:1000px; float:left; background:#78bbe6; margin-bottom:10px; font-size:14px; color:#fff4f5;font-family:Calibri}
+#footer1{ float:left; padding:5px;margin:5px }
+#footer2{ float:right;padding:5px;margin:5px}
+#green{ color:#acd373}
